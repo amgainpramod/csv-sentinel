@@ -1,0 +1,4 @@
+order_id,customer_email,order_date
+1001,alex@example.com,2026-11-24
+1002,,2026-11-25
+1001,casey@example.com,2026-02-29
